@@ -11,6 +11,9 @@
     ate a proxima. </p>
 <h1> Imagens do site </h1>
 
-   <img width="400xp" height= "400xp" src=  https://rovimusic.rovicorp.com/image.jpg?c=wyKspvcm-gIKFmUwIuaTGD6KsMttLlyBmmVTZ6_CLs0=&f=4 >
+   <img src=https://gringoscds.com.br/produtos/15768/20150803173420_kkk.jpg width="400xp" height= "420xp" >
+
+    <img src= https://gringoscds.com.br/produtos/15768/20150803173420_kkk.jpg width="100xp" height= "120xp" >
+    
 </body>
 </html>
